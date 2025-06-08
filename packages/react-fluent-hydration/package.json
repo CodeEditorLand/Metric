@@ -7,12 +7,12 @@
     "build": "pnpm run /build:.*/"
   },
   "dependencies": {
-    "@fluentui/react-components": "^9.54.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "@fluentui/react-components": "^9.64.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@swc/core": "^1.6.5",
+    "@swc/core": "^1.11.31",
     "swc-loader": "^0.2.6"
   }
 }
